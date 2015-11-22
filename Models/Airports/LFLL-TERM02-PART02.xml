@@ -2,8 +2,12 @@
 <PropertyList>
 	<path>LFLL-TERM02-PART02.ac</path>
 	<animation>
-		<name>LFLL-TERM02-PART02</name>
-		<object-name>LFLL-TERM02-PART02</object-name>
+		<name>LFLL-TERM02</name>
+		<object-name>LFLL-TERM02-PART02-DOWN</object-name>
+		<object-name>LFLL-TERM02-PART02-FEETS</object-name>
+		<object-name>LFLL-TERM02-PART02-UP</object-name>
+		<object-name>LFLL-TERM02-PYRAMID</object-name>
+		<object-name>LFLL-TERM02-ROOF-PIPE</object-name>
 	</animation>
 	<animation>
 		<type>range</type>
