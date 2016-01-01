@@ -1,8 +1,9 @@
 <?xml version="1.0"?>
 <PropertyList>
-	<path>LFLL-TERM02-PART02.ac</path>
+	<path>LFLL-TERM-02.ac</path>
 	<animation>
 		<name>LFLL-TERM02</name>
+		<object-name>LFLL-TERM02-PART01</object-name>
 		<object-name>LFLL-TERM02-PART02-DOWN</object-name>
 		<object-name>LFLL-TERM02-PART02-FEETS</object-name>
 		<object-name>LFLL-TERM02-PART02-UP</object-name>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<PropertyList>
+	<path>LFLL-TERM-CENTER.ac</path>
+	<animation>
+		<name>LFLL-TERM-CENTER</name>
+		<object-name>LFLL-CENTRAL-TERMINAL-LEFT</object-name>
+		<object-name>LFLL-CENTRAL-TERMINAL-LEFT-ROOF</object-name>
+		<object-name>LFLL-CENTRAL-TERMINAL-RIGHT</object-name>
+		<object-name>LFLL-CENTRAL-TERMINAL-RIGHT-ROOF</object-name>
+		<object-name>LFLL-CENTRAL-TERMINAL-PART01</object-name>
+		<object-name>LFLL-CENTRAL-TERMINAL-PART02</object-name>
+		<object-name>LFLL-CENTRAL-TERMINAL-PART03</object-name>
+	</animation>
+	<animation>
+		<type>range</type>
+		<min-m>0</min-m>
+		<max-m>20000</max-m>
+	</animation>
+</PropertyList>

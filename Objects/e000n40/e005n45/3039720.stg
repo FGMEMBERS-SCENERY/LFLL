@@ -41,10 +41,14 @@ OBJECT_SHARED Models/Airports/Apronlamp22m180deg.xml 5.07760782 45.72315436 236.
 OBJECT_SHARED Models/Airports/Apronlamp22m180deg.xml 5.08060879 45.72332957 237.7472 132.0 0.0 -0.0
 OBJECT_SHARED Models/Airports/Apronlamp22m180deg.xml 5.08099651 45.72280077 238.0948 316.0 0.0 -0.0
 #########################
+#Terminal 01
+#########################
+OBJECT_SHARED Models/Airports/LFLL-TERM-01.xml 5.08068982 45.71871080 239.6631 128.0 0.0 -0.0
+#########################
+#Terminal Centre (jonction T2 - T1)
+#########################
+OBJECT_SHARED Models/Airports/LFLL-TERM-CENTER.xml 5.08006142 45.72022153 239.5779 128.0 0.2 -0.0
+#########################
 #Terminal 02
 #########################
-OBJECT_SHARED Models/Airports/LFLL-TERM02-PART01.xml 5.08066066 45.72264510 238.00 127.9 0.0 -0.0
-OBJECT_SHARED Models/Airports/LFLL-TERM02-PART02.xml 5.08140821 45.72157562 238.4 128.0 0.1 -0.15
-#########################
-#Passerelle T2
-#########################
+OBJECT_SHARED Models/Airports/LFLL-TERM-02.xml 5.08120237 45.72157731 239.0596 128.0 0.0 -0.0
