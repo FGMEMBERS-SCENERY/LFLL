@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <PropertyList>
 	<path>LFLL-TERM-01.ac</path>
 	<animation>
@@ -13,5 +13,17 @@
 		<type>range</type>
 		<min-m>0</min-m>
 		<max-m>20000</max-m>
+	</animation>
+	<animation>
+		<type>textranslate</type>
+		<object-name>LFLL-TERM01</object-name>
+		<property>/sim/time/sun-angle-rad</property>
+		<step>1.57</step>
+		<factor>0.318471338</factor>
+		<axis> 
+			<x>-1</x> 
+			<y>0</y> 
+			<z>0</z> 
+		</axis>
 	</animation>
 </PropertyList>
